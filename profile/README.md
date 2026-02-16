@@ -1,6 +1,6 @@
 # Odybook 🗼
 
-![Odybook Banner](profile/odybook_github_banner.png)
+![Odybook Banner](odybook_github_banner.png)
 
 We build tools for tour guides and travel agencies.
 
